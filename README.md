@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">
+# Hello! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">
 
 My name is Dylan, I am a canadian university student enrolled in Computer Science. I often work on random projects following the passion of that category and language.
 
