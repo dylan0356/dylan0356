@@ -21,6 +21,5 @@ My name is Dylan, I am a canadian university student enrolled in Computer Scienc
 
 
 [![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan0356&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Dylan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dylan0356&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan0356&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
