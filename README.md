@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # Hello! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">
 
-My name is Dylan, I am a canadian university student enrolled in Computer Science. I often work on random projects following the passion of that category and language.
+My name is Dylan, I am a Canadian University Student enrolled in my third year of Computer Science and Psychology Combined. I am heavily foccused on Artificial Intelligence in my learning and side projects.
+
+- I am currently working on [NoteNudge](https://notenudge.com), a study tool that utilizes AI to help students create flashcard sets, notes and practice tests.
 
 
 [![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan0356&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
