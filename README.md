@@ -13,7 +13,7 @@ My name is Dylan, I am a Canadian university student enrolled in my fourth year 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dylan0356&count_private=true&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan0356&theme=dark&hide=shaderlab"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dylan0356&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan0356&theme=dark&hide=shaderlab"/>
 </p>
 
