@@ -7,4 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=dylan0356"/>
 </p>
 
-![Metrics](/github-metrics.svg)
+<p align="center">
+   ![Metrics](/github-metrics.svg)
+</p>
+
